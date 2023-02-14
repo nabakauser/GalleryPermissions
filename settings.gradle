@@ -1,0 +1,2 @@
+rootProject.name = "Gallery Permissions"
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery Permissions</string>
+    <string name="uiButtonGetImage">GET IMAGE FROM GALLERY</string>
+    <string name="uiButtonCaptureImage">CAPTURE IMAGE</string>
+</resources>
